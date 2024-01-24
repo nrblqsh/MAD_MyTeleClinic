@@ -1,4 +1,4 @@
-# my_teleclinic
+# MyTeleClinic
 
 A new Flutter project.
 
