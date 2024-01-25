@@ -78,7 +78,7 @@ MyTeleClinic is a healthcare application technology that is used to track health
 ## Database Integration
 
 As mentioned, we used phpMyAdmin as our project database. While firebase is used to push notification to other user.
-Here are the tables structure for our database :
+Here are the table structure for our database :
 
 #### patient
 ![Project Image](asset/patient.jpeg)
