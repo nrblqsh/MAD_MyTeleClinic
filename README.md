@@ -10,9 +10,9 @@
 
 - [Introduction](#introduction)
 - [Objective](#objective)
-- [Project Scope](#project_scope)
-- [Hardware & Software used](#hardware_software)
-- [Database Integration](#database_integration)
+- [Project Scope](#project-scope)
+- [Hardware & Software used](#hardware-software)
+- [Database Integration](#database-integration)
 - [Conclusion](#conclusion)
 
 ---
