@@ -77,7 +77,7 @@ MyTeleClinic is a healthcare application technology that is used to track health
 
 ## Database Integration
 
-As mentioned, we used phpMyAdmin as our project database. While OneSignal is used to push notification to other user.
+As mentioned, we used MySQL as our project database. While OneSignal is used to push notification to other user.
 Here are the table structure for our database :
 
 #### patient
