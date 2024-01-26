@@ -17,6 +17,17 @@
 
 ---
 
+## Contributors
+
+NOR BALQISH BINTI MOHAMAD NASRI (B032110395)
+NUR ATIQA IDAYU BINTI KAMARUZAMAN (B032110191)
+NUR IZZAH FAQIHAH BINTI FAUZI AZLI (B032110360)
+
+[Back To The Top](#myteleclinic-documentation)
+
+---
+
+
 ## Introduction
 
 MyTeleClinic is a healthcare application technology that is used to track healthcare and clinics nearby, making it easier for patients to locate and access medical services. It is also used to do online consultations with doctors and book online appointments with selected clinics. This application is an innovative solution to save time and energy for the citizens and make healthcare services more convenient.
