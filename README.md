@@ -60,10 +60,13 @@ MyTeleClinic is a healthcare application technology that is used to track health
 - User Medical Record module
 
 #### Target User
--Busy Professionals and Working Individuals: Individuals with hectic schedules looking for a convenient way to schedule medical appointments, track clinic visits, manage their medical records, and potentially engage in telemedicine for consultations.
--Elderly or Aging Population: Seniors who may have multiple healthcare appointments, medications, and health records to manage, often needing assistance and convenient apps to streamline healthcare interactions.
--Patients with Minor Illness Condition: Individuals dealing with minor illnesses or regular medical check-ups who need a tool to keep track of their appointments, medications, treatment plans, and consultations with healthcare providers.
--Patients in Rural or Underserved Areas: People living in remote or underserved areas with limited access to medical facilities, looking for telemedicine options and assistance in locating nearby clinics for necessary healthcare.
+- Busy Professionals and Working Individuals: Individuals with hectic schedules looking for a convenient way to schedule medical appointments, track clinic visits, manage their medical records, and potentially engage in telemedicine for consultations.
+
+- Elderly or Aging Population: Seniors who may have multiple healthcare appointments, medications, and health records to manage, often needing assistance and convenient apps to streamline healthcare interactions.
+  
+- Patients with Minor Illness Condition: Individuals dealing with minor illnesses or regular medical check-ups who need a tool to keep track of their appointments, medications, treatment plans, and consultations with healthcare providers.
+  
+- Patients in Rural or Underserved Areas: People living in remote or underserved areas with limited access to medical facilities, looking for telemedicine options and assistance in locating nearby clinics for necessary healthcare.
 
 [Back To The Top](#myteleclinic-documentation)
 
