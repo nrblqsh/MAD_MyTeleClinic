@@ -7,7 +7,7 @@
 ---
 
 ### Table of Contents
-
+- [Contributors](#contributors)
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Project Scope](#project-scope)
@@ -19,9 +19,10 @@
 
 ## Contributors
 
-NOR BALQISH BINTI MOHAMAD NASRI (B032110395)
-NUR ATIQA IDAYU BINTI KAMARUZAMAN (B032110191)
-NUR IZZAH FAQIHAH BINTI FAUZI AZLI (B032110360)
+1) NOR BALQISH BINTI MOHAMAD NASRI (B032110395)
+2) NUR ATIQA IDAYU BINTI KAMARUZAMAN (B032110191)
+3) NUR IZZAH FAQIHAH BINTI FAUZI AZLI (B032110360)
+
 
 [Back To The Top](#myteleclinic-documentation)
 
